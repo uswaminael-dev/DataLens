@@ -84,7 +84,7 @@ DataLens/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/DataLens.git
+git clone https://github.com/uswaminael-dev/DataLens.git
 cd DataLens
 ```
 
